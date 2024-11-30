@@ -79,7 +79,9 @@ Pin Outs
 
     - VCC -> 3.3v
     - GND -> GND
-    - S -> GPIO 26
+    - SQW -> GPIO 20
+    - SCL -> GPIO 17
+    - SDA -> GPIO 16
 
 Open the sketch "RTC_test_example"
 
