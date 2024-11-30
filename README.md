@@ -236,7 +236,7 @@ Once Installed Close both windows and Click Run in the Top right
     -Click the Red stop Botton and in the serial monitor you will see your board
 
 Reflashing **
-If something goes wrong, you are suck in a boot, or your device is not being reconized
+If something goes wrong, you are stuck in a boot/main.py loop, or your device is not being reconized
 
     - Unplug the Pi Pico
     - Hold the BOOT button on the Pi Pico and Plug the USB into your computer
