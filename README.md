@@ -1,6 +1,6 @@
 Weather Station Data Collection in Micro Python by John O'Dell
 
-We have used Circuit Python in past examples to use an SD card with our Pi Pico's. I am happy to say I have gotten SD cards to to work with them in Micro Python, something I have had trouble with getting stable in the past. I have only got it to work with a 1gb card, that will be enough for this test.
+We have used Circuit Python in past examples to use an SD card with our Pi Pico's. I am happy to say I have gotten SD cards to work with them in Micro Python, something I have had trouble with getting stable in the past. I have only got it to work with a 1gb card, that will be enough for this test.
 
 This is an issue with the baudrate, partitions, and timing. I am still learning and will update when I have a stable version for cards 16gb and larger. 
 
